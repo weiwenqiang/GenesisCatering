@@ -8,6 +8,12 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/BGARefresh" />
+            <option value="$PROJECT_DIR$/Calendar" />
+            <option value="$PROJECT_DIR$/DialogUI" />
+            <option value="$PROJECT_DIR$/PagerIndicator" />
+            <option value="$PROJECT_DIR$/SweetAlert" />
+            <option value="$PROJECT_DIR$/XUtils" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
